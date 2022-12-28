@@ -8,3 +8,15 @@
 
 
 // Extend Person class and create one class for each member of your family.
+
+
+
+class Person{
+    constructor(attributes){
+        this.Name=attributes.Name
+        this.Age=attributes.Age
+        this.Hobby=attributes.Hobby
+        
+    }
+}
+
